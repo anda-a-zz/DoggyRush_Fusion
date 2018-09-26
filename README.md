@@ -1,3 +1,2 @@
-# Clickteam
-
-Code from Video Game Design class, designed in Fusion 2.5.
+# Fusion_2.5
+Projects I worked on in my Video Game Design course in 2016.
