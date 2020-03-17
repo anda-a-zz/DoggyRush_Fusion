@@ -1,2 +1,2 @@
 # Fusion_2.5
-Projects I worked on in my Video Game Design course.
+Beginning this game in Fushion, I am now retransforming it into a Unity project.
